@@ -1,0 +1,15 @@
+.header {
+    font-size: 36px;
+    margin-bottom: 65px;
+}
+.advantage {
+    margin-top: 50px;
+}
+.advantage-img {
+    height: 150px;
+}
+.advantage-title {
+    display: block;
+    margin-top: 30px;
+    font-size: 18px;
+}
